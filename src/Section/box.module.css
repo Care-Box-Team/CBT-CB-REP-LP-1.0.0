@@ -2,9 +2,8 @@
     padding: 64px 128px;
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: space-around;
 }
-
 .boxContainer h2, .boxContainer p{
     margin: 0;
 }
