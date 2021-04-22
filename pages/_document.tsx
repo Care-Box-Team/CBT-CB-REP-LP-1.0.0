@@ -30,8 +30,7 @@ class MyDocument extends Document {
             property="twitter:description"
             content="Productos de aseos personal"
           />
-          {/* <meta property="twitter:image" content="/logo-bg.png" /> */}
-          <meta name="theme-color" content="#ff7733" />
+          <meta name="theme-color" content="#FF144D" />
         </Head>
         <body>
           <Main />

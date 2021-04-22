@@ -1,0 +1,20 @@
+import styles from "./panel.module.css";
+export const Panel: React.FC = () => {
+  return (
+    <section className={styles.section}>
+      <div className={styles.container}>
+        <div>
+          <h2>Carebox</h2>
+          <p>
+            Encuentra los mejores de productos de aseos en Box y te lo llevamos
+            a tu domicilio
+          </p>
+          <button>Ir a la página</button>
+        </div>
+        <div>
+            <img src="/assets/FirstSection.svg" alt="Carebox"/>
+        </div>
+      </div>
+    </section>
+  );
+};
