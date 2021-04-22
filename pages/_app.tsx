@@ -1,9 +1,4 @@
-const MyApp:React.FC = () => {
-  return (
-    <div>
-      <p>Hola</p>
-    </div>
-  );
+function MyApp({ Component, pageProps }) {
+  return <Component {...pageProps} />;
 }
-
 export default MyApp;
