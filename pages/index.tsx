@@ -1,6 +1,7 @@
 import Head from "next/head";
 import { Header } from "../src/Header/Header";
 import { Panel } from "../src/Panel/Panel";
+import { BoxContrusction } from "../src/Section/BoxConstruction";
 
 export default function Home() {
   return (
@@ -15,6 +16,7 @@ export default function Home() {
       </Head>
       <Header />
       <Panel />
+      <BoxContrusction />
     </div>
   );
 }
