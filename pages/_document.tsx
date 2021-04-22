@@ -14,21 +14,21 @@ class MyDocument extends Document {
 
           {/* Open Graph / Facebook  */}
           <meta property="og:type" content="website" />
-          <meta property="og:url" content="https://olma.pe/" />
+          <meta property="og:url" content="https://www.carebox.casa/" />
           <meta property="og:title" content="Olma" />
           <meta
             property="og:description"
-            content="Los mejores productos de belleza."
+            content="Productos de aseos personal"
           />
           <meta property="og:image" content="/logo-bg.png" />
 
           {/* Twitter  */}
           <meta property="twitter:card" content="summary_large_image" />
-          <meta property="twitter:url" content="https://olma.pe" />
+          <meta property="twitter:url" content="https://www.carebox.casa/" />
           <meta property="twitter:title" content="Olma" />
           <meta
             property="twitter:description"
-            content="Los mejores productos de belleza."
+            content="Productos de aseos personal"
           />
           {/* <meta property="twitter:image" content="/logo-bg.png" /> */}
           <meta name="theme-color" content="#ff7733" />
